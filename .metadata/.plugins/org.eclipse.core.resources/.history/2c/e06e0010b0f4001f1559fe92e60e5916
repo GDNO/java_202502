@@ -1,0 +1,19 @@
+package ch01.ex02;
+
+import java.util.Scanner;
+
+public class ScannerExample2 {
+
+	public static void main(String[] args) throws Exception {
+     Scanner scanner = new Scanner(System.in);
+     
+     System.out.println("x 값 입력: ");
+     String strX = scanner.nextLine()
+;
+     int x = Integer.parseInt(strX);
+     
+     Sysout
+		
+	}
+
+}

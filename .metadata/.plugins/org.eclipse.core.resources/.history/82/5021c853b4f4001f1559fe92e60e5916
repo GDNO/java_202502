@@ -1,0 +1,15 @@
+package ch01.ex02;
+
+import java.util.Scanner;
+
+public class ScannerExample4 {
+
+	public static void main(String[] args) {
+    Scanner scanner = new Scanner(System.in);
+    
+    System.out.println("떡값 출력 : ");
+    String strX=scanner.nextLine();
+    int x = integer
+	}
+
+}

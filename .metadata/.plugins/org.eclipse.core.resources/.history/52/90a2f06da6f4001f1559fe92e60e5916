@@ -1,0 +1,32 @@
+package ch01.ex01;
+
+public class PrintExample {
+
+	public static void main(String[] args) {
+		
+		System.out.print("Hello, Java");
+		System.out.print("Hello, Java");
+		System.out.println();
+		System.out.println("Hello, Java");
+		System.out.println("Hello, Java");
+		System.out.println();
+
+		System.out.printf("Hello, Java\n");
+		System.out.printf("Hello, Java");
+		
+		int a = 10;
+		int b = 20;
+		double c =  10.257;
+		System.out.println();
+//		System.out.println("a= "+ a + ", b= "+ b);
+		System.out.println("a="+ a + ", b="+ b + " c=" +  c);
+
+		System.out.printf("a=%d, b=%d, c=%.1f\n ", a , b, c);
+		
+		
+		// %d 뒤에 적혀있는 순서대로 %d에게 대입한다 . 
+		// 정수형은 %d 실수형은 %f로 작성해주면 된다. 
+		
+	}
+
+}
