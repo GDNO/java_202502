@@ -1,11 +1,11 @@
 package ch01.ex02;
 
-import java.util.Scanner;
+import java.util.Scanner; //scanner 작성후 ctrl + space 누르면 나옴
 
 public class ScannerExample {
 
 	public static void main(String[] args) {
-     
+
 		//키보드 통해서 인력을 받기!
 		
 		System.out.print("문자 입력 : ");
