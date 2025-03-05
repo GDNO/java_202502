@@ -14,7 +14,7 @@ public class IncraseExample2 {
 		a= a+1;
 		b= a;
 	System.out.println("a=" + a + "b"+ b);
-		System.out.printf("a=%d, b=d\nl", a , b);
+		System.out.printf("a=%d, b=%d\nl", a , b);
 
 		
 		int c = 1;
