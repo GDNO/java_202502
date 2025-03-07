@@ -2,7 +2,8 @@ package ch01.ex03.copy;
 
 public class Person {
 
-//	/필드 , 인스턴스 변수 
+//	/필드 , 인스턴스 변수 외부노출 불가하게 하기위해 private를 사용한다 . 
+//	변수 앞 private 필수이다 . 이상한 값이 입력되는걸 막기위한 방지용이다.
 	private String name;
 	private String phone;
 	private int age;
